@@ -11,4 +11,4 @@ Track Genbank flat file releases for plants. The results are packaged in a [Pres
 ## Usage
 
 1. clone this repository
-2. run  ```./make.sh``` to track the Genbank flat file releases for plants (incl. Fungi, Algae)
+2. run  ```./make.sh``` to track the Genbank flat file releases for plants, fungi and algae.
